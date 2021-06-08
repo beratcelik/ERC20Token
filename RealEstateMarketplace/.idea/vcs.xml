@@ -3,5 +3,8 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Blockchain-Capstone" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Blockchain-Capstone/zokrates/Z/ZoKrates" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Blockchain-Capstone/zokrates/Z2/ZoKrates" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ZoKrates" vcs="Git" />
   </component>
 </project>
